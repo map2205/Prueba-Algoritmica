@@ -35,6 +35,7 @@ public class Ej1_Par_Impar {
             int i;           
             for(i=numeroEntrada; i>=0; i--){
                     System.out.println(i);
+              
             }
             
         }else{
