@@ -34,9 +34,7 @@ public class Ej1_Par_Impar {
             // bucle descendiente de nº par
             int i;           
             for(i=numeroEntrada; i>=0; i--){
-                if(i %2==0){
                     System.out.println(i);
-                }
             }
             
         }else{
